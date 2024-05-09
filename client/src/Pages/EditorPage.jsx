@@ -125,7 +125,7 @@ function EditorPage() {
     url: "https://online-code-compiler.p.rapidapi.com/v1/",
     headers: {
       "content-type": "application/json",
-      "X-RapidAPI-Key": "908fc188e5mshf787fcb2d39d8ccp19ccc8jsn630461e06b7c",
+      "X-RapidAPI-Key": "Enter Your API KEY",
       "X-RapidAPI-Host": "online-code-compiler.p.rapidapi.com",
     },
     data: {
