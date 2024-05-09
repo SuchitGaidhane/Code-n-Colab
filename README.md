@@ -1,6 +1,6 @@
 # Code-N-Collab - Online Collaborative Code Editor
 
-Welcome to the collaborative code editor - Code-N-Colab ! This project allows multiple users to simultaneously collaborate, edit and run code in real-time with integrated compilaer within a web-based environment. It also shows stats such as CPU run time and Memory used by the code.
+Welcome to the collaborative code editor - Code-N-Colab!! This project allows multiple users to simultaneously collaborate, edit and run code in real-time with integrated compilaer within a web-based environment. It also shows stats such as CPU run time and Memory used by the code.
 
 ## Features
 
