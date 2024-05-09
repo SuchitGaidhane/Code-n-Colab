@@ -9,9 +9,12 @@ Welcome to the collaborative code editor - Code-n-Colab ! This project allows mu
 - User management: The system handles user joining and leaving with editing sessions seamlessly.
 - Persistent editor contents: User contributions are saved persistently, ensuring that no data is lost even after a page refresh.
 
-## Demo
+## ScreenShots
+![Login_Page](https://github.com/SuchitGaidhane/Code-n-Colab/assets/131668852/092d9b53-367c-4198-8355-5041fff50b3f)
+![InnerPage](https://github.com/SuchitGaidhane/Code-n-Colab/assets/131668852/f7563a28-3512-471e-9b2f-9265424da2c9)
+![InnerPage2](https://github.com/SuchitGaidhane/Code-n-Colab/assets/131668852/650ca240-aba9-4361-b435-47e47fd3f79e)
+![Collab_Proj](https://github.com/SuchitGaidhane/Code-n-Colab/assets/131668852/e52e3df3-62f3-499a-80d0-74989f620a16)
 
-[![Watch the video](https://img.youtube.com/vi/yIZB7ypqpD0/0.jpg)]
 
 ## Technologies Used
 
@@ -24,7 +27,44 @@ Welcome to the collaborative code editor - Code-n-Colab ! This project allows mu
 ## Note: Create the API key from:
 
 https://rapidapi.com/Glavier/api/online-code-compiler
-and edit it in .env file under server.
+
+
+and edit it in .env file under client and copy and paste .env it in the server.
+
+## Installation ⬇️
+
+1. Clone the project
+  ```sh
+    git clone https://github.com/SuchitGaidhane/Code-n-Colab
+  ```
+
+2. Navigate to the **```server```** folder from project root by
+  ```sh
+  cd server
+  ```
+  
+ * Install all npm packages
+    ```sh
+    npm i
+    ```
+ * Run local dev server
+    ```sh
+    npm run dev
+    ```
+3. Navigate to the **```client```** folder from project root by
+  ```sh
+  cd client
+  ```
+  
+ * Install all npm packages
+    ```sh
+    npm i
+    ```
+ * Run local dev server
+    ```sh
+    npm run dev
+    ```
+4. Open http://localhost:5173/ and the project will open
 
 ## Future scope 📈
 
